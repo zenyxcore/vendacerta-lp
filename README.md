@@ -1,46 +1,36 @@
-# Venda Certa — Kit de Vendas com IA para WhatsApp
+# 100 Mensagens que Vendem — Kit de Vendas por WhatsApp
 
-Landing page + produto digital low-ticket (R$29,90). Pronta para deploy na Vercel.
+Landing page + produto digital low-ticket (R$19,90). Deploy-ready na Vercel.
 
 ## Deploy na Vercel
 
-1. Suba este repo para o GitHub (ou conecte o diretório direto).
-2. Na [Vercel](https://vercel.com), clique em **Add New → Project**.
-3. Importe o repo.
-4. Framework preset: **Other** (é HTML estático).
-5. **Deploy**. Pronto.
-
-> O projeto é 100% estático (puro HTML/CSS/JS). Não precisa de build nem variáveis de ambiente.
+1. Conecte o repo no Vercel.
+2. Framework: **Other** (HTML estático).
+3. Deploy. Pronto.
 
 ## O produto
 
-**Kit Venda Certa** — a IA escreve suas mensagens de venda no WhatsApp em português:
-- +250 prompts de venda (abordagem, oferta, objeção, follow-up, cobrança, reativação)
-- Fórmula de resposta com IA
-- Roteiros de venda no WhatsApp
-- Guia de adaptação por nicho
+**100 Mensagens que Vendem** — mensagens prontas de vendas para WhatsApp:
+- 100 mensagens organizadas por situação de venda
+- 12 fluxos completos (abordagem, objeção, follow-up, reativação, status)
+- Coberto 7 nichos: moda, beleza, alimentos, acessórios, serviços, infoprodutos, genérico
+- Mini-guia de persuasão embutido
 - Atualizações vitalícias
 
-## Checkout atual
+## Checkout
 
-Hoje o CTA leva pro **WhatsApp** (`wa.me/5511922103713`) para o pedido ser fechado manualmente.
-Próximo passo recomendado: plugar um checkout (Hotmart, Kiwify, PayT, Cartpanda, Ticto, Asaas)
-para pagamento automático via Pix/cartão.
+Hoje o CTA leva pro **WhatsApp** para fechamento manual.
+Próximo: plugar checkout automático (Kiwify, Hotmart, Ticto, Cartpanda).
 
-## Roadmap de escalabilidade (order bumps & upsells)
+## Roadmap
 
-A estrutura da oferta já foi pensada para escalar. Ordem natural:
-
-1. **Valide a base** (R$29,90 — este kit).
-2. **Order bump** — na confirmação do checkout, ofereça "Kit Completo + Templates Premium" por +R$19,90 (já venha incluso a planilha de promos, os modelos de card, e a biblioteca de frases por nicho num arquivo separado).
-3. **Upsell 1** — "Refill mensal de prompts" (novos nichos toda semana) como acesso vitalício por +R$29,90.
-4. **Down-sell / Tripwire** — versão "mini" (50 prompts) por R$9,90 pra quem hesita.
-5. **Produto mais alto** — "Venda Certa Pro": + templates de card, + formação em copy rápida, por R$97–197.
-
-Para isso, separar o produto em **módulos independentes** (base + bump + upsell) e plugar a plataforma de checkout que suporta bumps (Kiwify, Hotmart, Ticto, PayT, Cartpanda, Asaas).
+1. **Validar** o kit base (R$19,90)
+2. **Order bump**: templates de card + mensagens de status premium (+R$9,90)
+3. **Upsell**: "100 Mensagens Pro" — fluxos avançados + roteiros de lançamento (+R$29,90)
+4. **Downsell**: mini-kit (30 mensagens) por R$9,90
 
 ## Customização
 
-- Troque o número do WhatsApp no arquivo `index.html` (procure `wa.me/5511922103713`).
-- Ajuste preço / mensagem onde aparece.
-- Marca/logo: edite os blocos `nav-brand` e footer.
+- WhatsApp: troque `wa.me/5511922103713` no `index.html`
+- Preço: altere onde aparece R$19,90 / R$49,90
+- Marca: edite os textos `100 Mensagens` no nav e footer
