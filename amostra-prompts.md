@@ -1,46 +1,71 @@
-# 100 Mensagens que Vendem — Amostra
+# Kit Festa na Caixa — Amostra dos Temas
 
-*Estas são 3 mensagens reais do kit completo. O kit final tem 100.*
-
----
-
-## 1. Situação: cliente perguntou preço e sumiu
-
-> Oi, [nome]! Vi que você ficou com dúvida no valor. Só pra te ajudar: esse produto tem saído muito bem, e quem pegou antes não se arrependeu 😊 Posso te mostrar como ele ficou em outro cliente? Às vezes ajuda a decidir
-
-**Por que funciona:** Prova social + FOMO. Você não defende o preço — mostra que outros já compraram e não se arrependeu.
+*Estes são os temas incluídos no kit completo. O kit final tem +30 temas em PDF.*
 
 ---
 
-## 2. Situação: cliente disse "tá caro"
+## Temas para Meninos
 
-> Entendo! Olha, o valor é investido uma vez só — e ele resolve seu problema de [X] pra sempre. Quando você divide pelo tempo que vai usar, sai por menos de R$[X] por mês. Faz sentido quando a gente olha assim?
-
-**Por que funciona:** Ancoragem de preço + Reframing. Você transforma um preço alto em "custo mensal baixo".
-
----
-
-## 3. Situação: primeiro contato — cliente pediu catálogo
-
-> Fala, [nome]! 🔥 Tudo bem? Vi que você quer ver nosso catálogo — manda certinho! Me conta: você busca mais pra [uso pessoal / presente / revenda]? Assim consigo te mostrar o que mais combina com você 😊
-
-**Por que funciona:** Personalização + Qualificação. Você puxa assunto com naturalidade e separa o cliente sério do curioso.
+- 🚀 **Espaço** — foguetes, astronautas, planetas
+- 🦕 **Dinossauro** — T-rex, triceratops, vulcões
+- 🦸 **Super-herói** — capas, logos, frases de poder
+- 🏎️ **Carros** — pistas, semáforos, bandeiras
+- 🕷️ **Aranha** — teias, aranhas, prédios
+- ⚽ **Futebol** — bolas, gols, troféus
+- 👨‍🚀 **Astronauta** — naves, estrelas, missões
+- 🐉 **Dragão** — ovos, chamas, castelos
 
 ---
 
-## O kit completo tem 100 mensagens assim, organizadas por:
+## Temas para Meninas
 
-- Abordagem (7 mensagens)
-- Quebra de objeção (15 mensagens)
-- Follow-up (10 mensagens)
-- Reativação (12 mensagens)
-- Status/stories (20 mensagens)
-- Fechamento (16 mensagens)
-- Pós-venda (10 mensagens)
-- Indicação (10 mensagens)
+- 👑 **Princesa** — coroas, castelos, varinhas
+- 🦄 **Unicórnio** — arco-íris, nuvens, glitter
+- 🧜‍♀️ **Sereia** — conchas, pérolas, bolhas
+- 🩰 **Ballet** — sapatilhas, tutus, flores
+- 🌸 **Jardim** — flores, borboletas, pássaros
+- 🍭 **Docinho** — cupcakes, balas, pirulitos
+- 🦋 **Borboleta** — asas, flores, cores
+- 🎀 **Polka** — bolinhas, laços, corações
 
 ---
 
-### Adquira o kit completo: [WhatsApp](https://wa.me/5511922103713)
+## Temas Unissex e Especiais
 
-© 2026 100 Mensagens que Vendem. Uso pessoal.
+- 🍀 **Nubinho** — nuvens, chuva, arco-íris
+- 🎈 **Balões** — cordas, fitas, cores
+- 🌈 **Arco-íris** — faixas, nuvens, potes de ouro
+- 🏝️ **Praia** — ondas, coqueiros, conchas
+- 🍕 **Comidinha** — hambúrgueres, pizzas, sorvetes
+- 🎪 **Circo** — tendas, palhaços, mágicos
+- 🐮 **Fazendinha** — vaquinhas, tratores, celeiros
+- 🌙 **Safari** — leões, girafas, jeeps
+
+---
+
+## O que cada tema inclui (em 1 único PDF)
+
+1. **Divisórias decoradas** — para pastas/divisórias internas
+2. **Adesivos e labels** — etiquetas para pacotes e caixas
+3. **Tags de presente** — com nome do aniversariante
+4. **Convites** — prontos para imprimir e entregar
+5. **Cartões de agradecimento** — cartãozinho final
+6. **Checklist de montagem** — guia rápido do que imprimir
+
+---
+
+## Como funciona
+
+1. Escolha o tema
+2. Imprima o PDF (papel 120g ou fotográfico)
+3. Recorte, cole e monte na caixa
+4. Complete com doces e presentes
+5. Venda por 3-5x o custo
+
+---
+
+## Adquira o kit completo (+30 temas)
+
+[Comprar via WhatsApp — R$29,90](https://wa.me/5511922103713?text=Quero%20o%20Kit%20Festa%20na%20Caixa%20por%20R%2429%2C90)
+
+© 2026 Festa na Caixa. Entrega digital. Uso pessoal e comercial.
