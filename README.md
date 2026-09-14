@@ -11,7 +11,7 @@ Landing page + produto digital (R$29,90). Deploy pronto na Vercel.
 
 ## O que é o produto
 
-Kit completo pra lucrar com caixas de festa infantil: +30 temas em PDF pra imprimir + guia de custo, tabela de preço, onde vender e roteiros de atendimento. A pessoa monta em minutos e vende por 4-5x o custo — sem saber desenhar, sem Canva, sem complicação.
+Kit completo pra lucrar com caixas de festa infantil: +200 temas em PDF pra imprimir + guia de custo, tabela de preço, onde vender e roteiros de atendimento. A pessoa monta em minutos e vende por 4-5x o custo — sem saber desenhar, sem Canva, sem complicação.
 
 ### Preço
 - Kit básico: R$29,90 (ancora R$79,90)
@@ -20,7 +20,7 @@ Kit completo pra lucrar com caixas de festa infantil: +30 temas em PDF pra impri
 - Garantia: 7 dias incondicional
 
 ### O que inclui
-- +30 temas completos em PDF
+- +200 temas completos em PDF
 - Cada tema: divisórias, adesivos, tags, convites, cartão de agradecimento, checklist
 - 3 tamanhos de caixa por tema
 - Novos temas garantidos sem pagar de novo

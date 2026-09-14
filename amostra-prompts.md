@@ -1,6 +1,6 @@
 # Kit Festa na Caixa — Amostra
 
-*Trecho real do kit completo (+30 temas em PDF).*
+*Trecho real do kit completo (+200 temas em PDF).*
 
 ---
 
@@ -34,7 +34,7 @@ O PDF do tema vem com:
 
 ---
 
-## Temas incluídos (amostra — o kit tem +30)
+## Temas incluídos (amostra — o kit tem +200)
 
 - 👑 Princesa · 🦕 Dinossauro · 🦄 Unicórnio · 🚀 Espaço · 🧜‍♀️ Sereia
 - 🦸 Super-herói · 🏎️ Carros · ⚽ Futebol · 🌸 Jardim · 🍭 Docinho
@@ -52,7 +52,7 @@ O PDF do tema vem com:
 
 ---
 
-## Adquira o kit completo (+30 temas + guia de lucro)
+## Adquira o kit completo (+200 temas + guia de lucro)
 
 [Comprar via WhatsApp — R$29,90](https://wa.me/5511922103713?text=Quero%20o%20Kit%20Festa%20na%20Caixa%20por%20R%2429%2C90)
 
